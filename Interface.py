@@ -132,7 +132,7 @@ def show_help():
     help_text = """Willkommen zur Gebäudebewertung!
 
 1. Klicken Sie auf den 'Datei zum Bewerten auswählen'-Button, um eine Datei auszuwählen.
-2. Eine zufällige Bewertung wird für die 10 Kriterien angezeigt.
+2. Eine Bewertung wird für die 10 Kriterien angezeigt.
 3. Am Ende wird eine Gesamtbewertung angezeigt.
 
 Viel Spaß bei der Bewertung!"""
